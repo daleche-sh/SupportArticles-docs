@@ -19,7 +19,7 @@ This article provides architectural best practices for the Azure Application Gat
 - [Operational excellence](#operational-excellence)
 - [Performance efficiency](#performance-efficiency)
 
-We assume that you have working knowledge of Azure Application Gateway and are well versed with v2 SKU features. For more information, see [Azure Application Gateway features](https://dotnet.microsoft.com).
+We assume that you have working knowledge of Azure Application Gateway and are well versed with v2 SKU features. For more information, see [Azure Application Gateway features](/azure/application-gateway/features).
 
 ## Prerequisites
 
